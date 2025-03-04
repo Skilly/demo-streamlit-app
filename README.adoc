@@ -1,0 +1,12 @@
+= Demo Streamlit App 📦
+
+== Demo App
+link:https://app-starter-kit.streamlit.app/[image:https://static.streamlit.io/badges/streamlit_badge_black_white.svg[]]
+
+== Source
+
+link:https://codespaces.new/streamlit/app-starter-kit?quickstart=1[image:https://github.com/codespaces/badge.svg[]]
+
+== Info
+
+This application uses `pipenv`
